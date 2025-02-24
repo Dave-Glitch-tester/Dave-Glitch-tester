@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 17<br>📚 I'm currently learning SQL/PYTHON<br>🎯 Goals: 20 PROJECTS IN A YEAR<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 17<br>📚 I'm currently learning SQL/PYTHON<br>🎯 Goals: 20 PROJECTS IN A YEAR<br>🎲 Fun fact: Consistency is Key</p>
 
 ###
 
